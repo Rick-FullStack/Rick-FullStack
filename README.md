@@ -1,7 +1,7 @@
 # César Henrique 👋
 ### Full Stack Developer
 
-## 🇺🇸 About Me
+## About Me
 
 I am a Full Stack Developer focused on the Python and JavaScript ecosystem. I aim to build robust applications, well-structured APIs, and dynamic interfaces, always following industry best practices.
 
@@ -31,10 +31,10 @@ I am a Full Stack Developer focused on the Python and JavaScript ecosystem. I ai
 ### ✍️ Content & Community
 
 I enjoy documenting my learning process to help other developers:
-- 📖 My articles on [Medium](https://medium.com)
-- 💻 Technical insights on [Dev.to](https://dev.to)
-- 🎥 Tech content on [YouTube](https://youtube.com)
+- 📖 My articles on [Medium](https://medium.com/@rick-fullstack)
+- 💻 Technical insights on [Dev.to](https://dev.to/rick-fullstack)
+- 🎥 Tech content on [YouTube](https://www.youtube.com/@Rick-Fullstack)
 
 ### 📫 Let's connect!
 
-- 💼 LinkedIn: [César H. Batista Torres](https://linkedin.com)
+- 💼 LinkedIn: [César H. Batista Torres](https://www.linkedin.com/in/rick-fullstack/)
